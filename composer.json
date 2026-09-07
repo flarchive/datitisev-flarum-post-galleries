@@ -1,0 +1,62 @@
+{
+    "name": "datitisev/flarum-post-galleries",
+    "description": "Add image galleries to your Flarum posts",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^2.0.0"
+    },
+    "authors": [
+        {
+            "name": "David Sevilla Martin",
+            "email": "me@dsevilla.dev",
+            "role": "Developer"
+        }
+    ],
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/dsevillamartin"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Post Galleries",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-images",
+                "color": "#0cce6b",
+                "backgroundColor": "#363537"
+            },
+            "optional-dependencies": [
+                "ianm/synopsis"
+            ]
+        },
+        "flarum-cli": {
+            "modules": {
+                "admin": true,
+                "forum": true,
+                "js": true,
+                "jsCommon": false,
+                "css": true,
+                "locale": false,
+                "gitConf": true,
+                "githubActions": true,
+                "prettier": true,
+                "typescript": true,
+                "bundlewatch": false,
+                "backendTesting": false,
+                "editorConfig": true,
+                "styleci": true
+            }
+        },
+        "extiverse": {
+            "discuss": "https://discuss.flarum.org/d/30295"
+        }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
+}
