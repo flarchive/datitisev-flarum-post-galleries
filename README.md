@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of datitisev/flarum-post-galleries.** Not for installation: use [Packagist](https://packagist.org/packages/datitisev/flarum-post-galleries) or the [upstream repository](https://github.com/datitisev/flarum-post-galleries).
 
-**0** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0.0`
+**5** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v2.0.0-beta.1) (stable: [`1.0.0`](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v1.0.0)) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-03-03 | `^1.2.0` | [Browse](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-03-28 | `^1.2.0` | [Browse](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v1.0.1) |
+| `1.1.0` | 2023-08-08 | `^1.2.0` | [Browse](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v1.1.0) |
+| `1.1.1` | 2023-08-09 | `^1.2.0` | [Browse](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v1.1.1) |
+| `2.0.0-beta.1` | 2026-09-07 | `^2.0.0` | [Browse](https://github.com/flarchive/datitisev-flarum-post-galleries/tree/archive/v2.0.0-beta.1) |
 
 Catalog entry: [packages/datitisev-flarum-post-galleries.json](https://github.com/flarchive/archive-index/blob/main/packages/datitisev-flarum-post-galleries.json)
 
